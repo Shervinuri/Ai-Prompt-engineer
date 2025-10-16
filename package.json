@@ -1,0 +1,9 @@
+{
+  "name": "shen-prompt-engineer-backend",
+  "version": "1.0.0",
+  "description": "Backend function for SHEN Prompt Engineer",
+  "dependencies": {
+    "@google/genai": "^1.25.0",
+    "@netlify/functions": "^2.6.0"
+  }
+}

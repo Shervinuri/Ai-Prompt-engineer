@@ -1,0 +1,5 @@
+{
+  "name": "SHΞN™ Prompt Engineer",
+  "description": "An application to enhance Persian prompts for AI video generation using the Gemini API. It analyzes prompts, adds diacritics to dialogue, cleans visual text, and generates optimized English prompts.",
+  "requestFramePermissions": []
+}
